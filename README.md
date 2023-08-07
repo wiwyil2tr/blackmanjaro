@@ -1,8 +1,9 @@
 # blackmanjaro
 BlackManjaro -- Manjaro Linux for Penetration Testing.
-* Based on Manjaro Xfce Version
 
-* Features:
+Based on Manjaro Xfce Version<br>
+
+ Features:<br>
 * Added Blackarch Repository
 * Pre-installed some Penetration Testing Tools in Blackarch slim iso
 * Other Tools in Blackarch Repository can be installed with Package Manager after Installation.
