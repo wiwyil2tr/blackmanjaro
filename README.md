@@ -11,7 +11,7 @@ Github: github.com/wiwyil2tr/blackmanjaro
 
 pre-installed Pentesting Tools
 
-'''
+```
 aircrack-ng
 amass
 arp-scan
@@ -161,4 +161,4 @@ zaproxy
 zdns
 zgrab2
 zmap
-'''
+```
