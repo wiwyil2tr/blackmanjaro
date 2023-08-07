@@ -6,7 +6,7 @@ Based on Manjaro Xfce Version<br>
  Features:<br>
 * Added Blackarch Repository
 * Pre-installed some Penetration Testing Tools in Blackarch slim iso
-* Other Tools in Blackarch Repository can be installed with Package Manager after Installation.
+* Other Tools in Blackarch Repository can be installed with Package Manager.
 
 Github: https://github.com/wiwyil2tr/blackmanjaro
 
