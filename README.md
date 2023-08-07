@@ -8,7 +8,10 @@ Based on Manjaro Xfce Version<br>
 * Pre-installed some Penetration Testing Tools in Blackarch slim iso
 * Other Tools in Blackarch Repository can be installed with Package Manager after Installation.
 
-Github: github.com/wiwyil2tr/blackmanjaro
+Github: https://github.com/wiwyil2tr/blackmanjaro
+
+Download Link: [Link](https://www.123pan.com/s/jR1SVv-GLx6d.html) (Extract Code:hWWb)
+Alternate Link: [Link](https://36-134-210-38.d.cjjd15.com:30443/download-cdn.123pan.cn/123-107/01474e1d/1813490079-0/01474e1d21c88abe6185e5aa10340c6b/c-m6?v=5&t=1691481015&s=16914810152097d0acb888a95af728337e1d4b9650&r=MG9W8T&bzc=1&bzs=1813490079&filename=blackmanjaro-23.0.0-230807-linux61.iso&x-mf-biz-cid=1f44f82c-4c05-4181-a0e9-7568bad167bb-47df1e&auto_redirect=0&xmfcid=2507fc60-b650-4ef9-9449-d95ca8e53943-1-cd8a62355)
 
 pre-installed Pentesting Tools
 
